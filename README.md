@@ -19,6 +19,8 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![JEST](https://img.shields.io/badge/-JEST-333333?style=flat&logo=jest)
+
 
 **Utilidades**
 
@@ -38,8 +40,8 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TI-fernando&theme=dracula&show_icons=true" alt="Estatísticas do GitHub de Fernando" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-fernando&theme=dracula&layout=compact" alt="Linguagens mais usadas por Fernando" width="305" style="margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TI-nando&theme=dracula&show_icons=true" alt="Estatísticas do GitHub de Fernando" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-nando&theme=dracula&layout=compact" alt="Linguagens mais usadas por Fernando" width="305" style="margin-left: 10px;" />
 </p>
 
 
