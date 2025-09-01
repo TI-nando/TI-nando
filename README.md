@@ -21,7 +21,6 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![JEST](https://img.shields.io/badge/-JEST-333333?style=flat&logo=jest)
 
-
 **Utilidades**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -36,17 +35,17 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-----
+---
+
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TI-nando&theme=dracula&show_icons=true" alt="Estatísticas do GitHub de Fernando" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-nando&theme=dracula&layout=compact" alt="Linguagens mais usadas por Fernando" width="400" style="margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TI-nando&theme=dracula&show_icons=true" alt="Estatísticas do GitHub de Fernando" width="400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-nando&theme=dracula&layout=compact" alt="Linguagens mais usadas por Fernando" width="400" height="165" style="margin-left: 10px;" />
 </p>
 
+---
 
-
-----
 <h2>Onde Me Encontrar</h2>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandohenrique654/)](https://www.linkedin.com/in/fernandohenrique654/)
