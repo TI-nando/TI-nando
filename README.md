@@ -41,7 +41,7 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TI-nando&theme=dracula&show_icons=true" alt="Estatísticas do GitHub de Fernando" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-nando&theme=dracula&layout=compact" alt="Linguagens mais usadas por Fernando" width="305" style="margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-nando&theme=dracula&layout=compact" alt="Linguagens mais usadas por Fernando" width="400" style="margin-left: 10px;" />
 </p>
 
 
@@ -51,5 +51,5 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandohenrique654/)](https://www.linkedin.com/in/fernandohenrique654/)
 [![Gmail Badge](https://img.shields.io/badge/-fernandoagro.654@gmail.com-D14836?style=flat-&logo=Gmail&logoColor=white&link=mailto:fernandoagro.654@gmail.com)](mailto:fernandoagro.654@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/TI-fernando?label=follow&style=social)](https://github.com/TI-fernando)
-![](https://komarev.com/ghpvc/?username=TI-fernando&color=006bed)
+[![GitHub](https://img.shields.io/github/followers/TI-nando?label=follow&style=social)](https://github.com/TI-nando)
+![](https://komarev.com/ghpvc/?username=TI-nando&color=006bed)
