@@ -12,28 +12,54 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 
 <h2>Minhas Skills</h2>
 
-**Aplicações e Dados**
+<h3>Front-End</h3>
+<div align="left">
+  <img alt="HTML5" title="HTML5" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="React" title="React" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="Vue.js" title="Vue.js" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img alt="Vite" title="Vite" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+</div>
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![JEST](https://img.shields.io/badge/-JEST-333333?style=flat&logo=jest)
+<h3>Back-End</h3>
+<div align="left">
+  <img alt="Node.js" title="Node.js" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</div>
 
-**Utilidades**
+![REST API](https://img.shields.io/badge/REST%20API-333333?style=flat)
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+<h3>Banco de Dados</h3>
+<div align="left">
+  <img alt="MySQL" title="MySQL" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
 
-**DevOps**
+<h3>Testes</h3>
+<div align="left">
+  <img alt="Jest" title="Jest" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+</div>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<h3>Ferramentas</h3>
+<div align="left">
+  <img alt="Git" title="Git" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Postman" title="Postman" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  <img alt="VS Code" title="Visual Studio Code" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Trello" title="Trello" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+</div>
 
-**Ferramentas De Desenvolvimento**
+<h3>Metodologias</h3>
+<div align="left">
+  <img alt="Jira" title="Jira (Scrum)" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+  <img alt="Trello" title="Trello (Kanban)" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" />
+</div>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+<h3>UX/UI</h3>
+<div align="left">
+  <img alt="Figma" title="Figma" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img alt="Adobe XD" title="Adobe XD" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-plain.svg" />
+</div>
 
 ---
 
@@ -48,7 +74,7 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 
 <h2>Onde Me Encontrar</h2>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandohenrique654/)](https://www.linkedin.com/in/fernandohenrique654/)
-[![Gmail Badge](https://img.shields.io/badge/-fernandoagro.654@gmail.com-D14836?style=flat-&logo=Gmail&logoColor=white&link=mailto:fernandoagro.654@gmail.com)](mailto:fernandoagro.654@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandohenrique654/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fernandoagro.654@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/TI-nando?label=follow&style=social)](https://github.com/TI-nando)
 ![](https://komarev.com/ghpvc/?username=TI-nando&color=006bed)
