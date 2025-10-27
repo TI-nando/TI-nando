@@ -66,7 +66,7 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TI-nando&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub de Fernando" width="400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TI-nando&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=0" alt="Estatísticas do GitHub de Fernando" width="400" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-nando&theme=dracula&layout=compact" alt="Linguagens mais usadas por Fernando" width="400" height="165" style="margin-left: 10px;" />
 </p>
 
