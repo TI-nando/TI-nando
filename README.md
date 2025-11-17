@@ -1,4 +1,4 @@
-<h2>Sobre Mim</h2>
+<h2>👋 Sobre Mim</h2>
 
 Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por criar experiências web incríveis. Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para fornecer soluções de alta qualidade.
 
@@ -10,7 +10,7 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 
 - 🌱 &nbsp; Aprendendo mais sobre **React**, **Node.js**, **Clean Code**, **Aprofundando em JavaScript**.
 
-<h2>Minhas Skills</h2>
+<h2>🛠️ Minhas Skills</h2>
 
 <h3>Front-End</h3>
 <div align="left">
@@ -18,14 +18,18 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
   <img alt="CSS3" title="CSS3" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="React" title="React" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Next.js" title="Next.js" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img alt="TypeScript" title="TypeScript" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="Vue.js" title="Vue.js" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
   <img alt="Vite" title="Vite" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+  <img alt="TailwindCSS" title="TailwindCSS" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Sass" title="Sass" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 </div>
 
 <h3>Back-End</h3>
 <div align="left">
   <img alt="Node.js" title="Node.js" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Java" title="Java" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
 ![REST API](https://img.shields.io/badge/REST%20API-333333?style=flat)
@@ -63,18 +67,47 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 
 ---
 
+<h2>💼 Status Profissional</h2>
+
+🟢 **Disponível para oportunidades**
+- 🎯 **Buscando:** Desenvolvedor Front-End Jr/Pleno
+- 📍 **Localização:** Brasil
+- 💻 **Modalidade:** Remoto/Híbrido/Presencial
+- 📧 **Contato:** fernandoagro.654@gmail.com
+
+---
+
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TI-nando&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=0" alt="Estatísticas do GitHub de Fernando" width="400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-nando&theme=dracula&layout=compact" alt="Linguagens mais usadas por Fernando" width="400" height="165" style="margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TI-nando&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=0&hide_border=true" alt="Estatísticas do GitHub de Fernando" width="400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-nando&theme=dracula&layout=compact&hide_border=true" alt="Linguagens mais usadas por Fernando" width="400" height="165" style="margin-left: 10px;" />
 </p>
 
 ---
 
-<h2>Onde Me Encontrar</h2>
+<h2>🤝 Vamos Conectar?</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandohenrique654/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fernandoagro.654@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/TI-nando?label=follow&style=social)](https://github.com/TI-nando)
-![](https://komarev.com/ghpvc/?username=TI-nando&color=006bed)
+<div align="center">
+  <a href="https://www.linkedin.com/in/fernando-agro-b4b5b5263/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fernandoagro.654@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/TI-nando" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TI-nando&color=blue&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>💡 "Código limpo não é escrito seguindo regras. Você sabe que escreveu código limpo quando cada rotina que você lê é praticamente o que você esperava." - Robert C. Martin</h3>
+</div>
