@@ -1,9 +1,10 @@
 <h2>👋 Sobre Mim</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=7F3ACE&center=true&vCenter=true&width=720&lines=Fernando+Henrique+Silva&lines=Desenvolvedor+Front-End" alt="Apresentação animada" />
-  <br/>
-</p>
 
+<div align=center>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6F42F7&center=true&vCenter=true&width=435&lines=Oi%2C+Meu+Nome+%C3%A9+Fernando+Henrique!;Desenvolvedor+Front-End!)](https://git.io/typing-svg)
+
+</div>
 
 Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por criar experiências web incríveis. Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para fornecer soluções de alta qualidade.
 
