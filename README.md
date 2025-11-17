@@ -13,18 +13,22 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 <h2>🛠️ Minhas Skills</h2>
 
 <h3>Front-End</h3>
-<div align="left">
-  <img alt="HTML5" title="HTML5" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" title="CSS3" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="React" title="React" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Next.js" title="Next.js" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img alt="TypeScript" title="TypeScript" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="Vue.js" title="Vue.js" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img alt="Vite" title="Vite" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-  <img alt="TailwindCSS" title="TailwindCSS" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img alt="Sass" title="Sass" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-</div>
+<table>
+  <tr>
+    <td align="center"><img alt="HTML5" title="HTML5" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><br/>HTML5</td>
+    <td align="center"><img alt="CSS3" title="CSS3" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><br/>CSS3</td>
+    <td align="center"><img alt="JavaScript" title="JavaScript" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br/>JavaScript</td>
+    <td align="center"><img alt="React" title="React" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><br/>React</td>
+    <td align="center"><img alt="Next.js" title="Next.js" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /><br/>Next.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="TypeScript" title="TypeScript" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /><br/>TypeScript</td>
+    <td align="center"><img alt="Vue.js" title="Vue.js" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /><br/>Vue.js</td>
+    <td align="center"><img alt="Vite" title="Vite" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /><br/>Vite</td>
+    <td align="center"><img alt="TailwindCSS" title="TailwindCSS" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /><br/>TailwindCSS</td>
+    <td align="center"><img alt="Sass" title="Sass" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /><br/>Sass</td>
+  </tr>
+ </table>
 
 <h3>Back-End</h3>
 <table>
@@ -43,35 +47,45 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 ![REST API](https://img.shields.io/badge/REST%20API-333333?style=flat)
 
 <h3>Banco de Dados</h3>
-<div align="left">
-  <img alt="MySQL" title="MySQL" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
+<table>
+  <tr>
+    <td align="center"><img alt="MySQL" title="MySQL" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><br/>MySQL</td>
+  </tr>
+ </table>
 
 <h3>Testes</h3>
-<div align="left">
-  <img alt="Jest" title="Jest" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-</div>
+<table>
+  <tr>
+    <td align="center"><img alt="Jest" title="Jest" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /><br/>Jest</td>
+  </tr>
+ </table>
 
 <h3>Ferramentas</h3>
-<div align="left">
-  <img alt="Git" title="Git" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" title="GitHub" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="Postman" title="Postman" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-  <img alt="VS Code" title="Visual Studio Code" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="Trello" title="Trello" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-</div>
+<table>
+  <tr>
+    <td align="center"><img alt="Git" title="Git" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br/>Git</td>
+    <td align="center"><img alt="GitHub" title="GitHub" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><br/>GitHub</td>
+    <td align="center"><img alt="Postman" title="Postman" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /><br/>Postman</td>
+    <td align="center"><img alt="VS Code" title="Visual Studio Code" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br/>VS Code</td>
+    <td align="center"><img alt="Trello" title="Trello" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /><br/>Trello</td>
+  </tr>
+ </table>
 
 <h3>Metodologias</h3>
-<div align="left">
-  <img alt="Jira" title="Jira (Scrum)" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-  <img alt="Trello" title="Trello (Kanban)" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" />
-</div>
+<table>
+  <tr>
+    <td align="center"><img alt="Jira" title="Jira (Scrum)" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" /><br/>Jira</td>
+    <td align="center"><img alt="Trello" title="Trello (Kanban)" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" /><br/>Trello</td>
+  </tr>
+ </table>
 
 <h3>UX/UI</h3>
-<div align="left">
-  <img alt="Figma" title="Figma" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img alt="Adobe XD" title="Adobe XD" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-plain.svg" />
-</div>
+<table>
+  <tr>
+    <td align="center"><img alt="Figma" title="Figma" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /><br/>Figma</td>
+    <td align="center"><img alt="Adobe XD" title="Adobe XD" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-plain.svg" /><br/>Adobe XD</td>
+  </tr>
+ </table>
 
 ---
 
