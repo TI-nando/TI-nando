@@ -1,4 +1,9 @@
 <h2>👋 Sobre Mim</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=7F3ACE&center=true&vCenter=true&width=720&lines=Fernando+Henrique Silva;Desenvolvedor+Full-Stack;Código+limpo+%7C+Aprendizado+contínuo" alt="Apresentação animada" />
+  <br/>
+</p>
+
 
 Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por criar experiências web incríveis. Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para fornecer soluções de alta qualidade.
 
