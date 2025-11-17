@@ -1,6 +1,6 @@
 <h2>👋 Sobre Mim</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&color=7F3ACE&center=true&vCenter=true&width=720&lines=Fernando+Henrique+Silva&lines=Desenvolvedor+Full-Stack&lines=C%C3%B3digo+limpo+%7C+Aprendizado+cont%C3%ADnuo" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=7F3ACE&center=true&vCenter=true&width=720&lines=Fernando+Henrique+Silva&lines=Desenvolvedor+Front-End" alt="Apresentação animada" />
   <br/>
 </p>
 
