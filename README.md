@@ -27,10 +27,18 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 </div>
 
 <h3>Back-End</h3>
-<div align="left">
-  <img alt="Node.js" title="Node.js" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Java" title="Java" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img alt="Node.js" title="Node.js" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <br/>Node.js
+    </td>
+    <td align="center">
+      <img alt="Java" title="Java" width="40" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+      <br/>Java
+    </td>
+  </tr>
+ </table>
 
 ![REST API](https://img.shields.io/badge/REST%20API-333333?style=flat)
 
