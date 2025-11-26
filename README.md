@@ -31,7 +31,7 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
   </tr>
 </table>
 
-<h3>Back-End</h3>
+<h3>Back-End & API</h3>
 <table>
   <tr>
     <td align="center">
@@ -42,10 +42,12 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
       <br/>Java
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" alt="REST API" title="REST API"/>
+      <br/>REST API
+    </td>
   </tr>
 </table>
-
-<img src="https://img.shields.io/badge/REST%20API-333333?style=flat" alt="REST API Badge" />
 
 <h3>Banco de Dados</h3>
 <table>
@@ -100,7 +102,7 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 
 ---
 
-<<h2>📊 Minha Atividade</h2>
+<h2>📊 Minha Atividade</h2>
 
 <table border="0" width="100%">
   <tr>
@@ -126,7 +128,6 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,sass,nodejs,java,mysql,git&perline=14" alt="Minhas Skills" />
 </div>
----
 
 <h2>🤝 Vamos Conectar?</h2>
 
