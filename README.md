@@ -1,6 +1,6 @@
 <h2>👋 Sobre Mim</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=7F3ACE&center=true&vCenter=true&width=720&lines=Fernando+Henrique+Silva&lines=Desenvolvedor+Front-End" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=7F3ACE&center=true&vCenter=true&width=720&lines=Fernando+Henrique+Silva&lines=Desenvolvedor+Full-Stack&lines=C%C3%B3digo+limpo+%7C+Aprendizado+cont%C3%ADnuo" alt="Apresentação animada" />
   <br/>
 </p>
 
@@ -104,11 +104,24 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 
 ---
 
-<br/>
+<h2>📊 Estatísticas & Linguagens</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TI-nando&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub de Fernando" width="400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-nando&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas por Fernando" width="400" height="165" style="margin-left: 10px;" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TI-nando&theme=dracula" alt="Repositórios por Linguagem" width="400" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TI-nando&theme=dracula" alt="Linguagem mais comitada" width="400" height="165" style="margin-left: 10px;" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TI-nando&theme=dracula&hide_border=true&locale=pt_BR" alt="Streak de commits de Fernando" width="820" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TI-nando&theme=dracula&hide_border=true&area=true" alt="Gráfico de atividades de Fernando" width="820" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TI-nando&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=0&hide_border=true" alt="Estatísticas do GitHub de Fernando" width="400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-nando&theme=dracula&layout=compact&hide_border=true" alt="Linguagens mais usadas por Fernando" width="400" height="165" style="margin-left: 10px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,sass,nodejs,java&perline=6" alt="Tecnologias" />
 </p>
 
 ---
