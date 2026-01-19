@@ -4,12 +4,7 @@
   <br/>
 </p>
 
-Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por criar experiências web incríveis. Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para fornecer soluções de alta qualidade.
-
-- 👨🏻‍💻 Explorando novas tecnologias e desenvolvendo soluções Web.
-- 🎓 Estudando **DevQuest** Do **DevEmDobro** Lendo sobre **Clean Code**.
-- 💼 Atualmente Buscando uma Vaga De **Desenvolvedor Front-End**
-- 🌱 &nbsp; Aprendendo mais sobre **React**, **Node.js**, **Clean Code**, **Aprofundando em JavaScript**.
+Desenvolvedor Full Stack Júnior com sólida formação em Gestão de TI e forte base técnica em React.js, TypeScript e Node.js. Diferencial competitivo em arquitetura de software, com experiência prática na implementação de microsserviços, filas de mensageria (RabbitMQ) e integração entre múltiplas linguagens (Go, Python). Focado em Clean Code e performance, busco aplicar minha capacidade de resolução de problemas complexos em desafios reais de desenvolvimento.
 
 <h2>🛠️ Minhas Skills</h2>
 
@@ -113,7 +108,7 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 <h2>💼 Status Profissional</h2>
 
 🟢 **Disponível para oportunidades**
-- 🎯 **Buscando:** Desenvolvedor Front-End Jr/Pleno
+- 🎯 **Buscando:** Desenvolvedor Full Stack (Java/Node/React)
 - 📍 **Localização:** Brasil
 - 💻 **Modalidade:** Remoto/Híbrido/Presencial
 - 📧 **Contato:** fernandoagro.654@gmail.com
