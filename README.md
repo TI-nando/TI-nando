@@ -31,7 +31,7 @@
         <h3>🚀 GDASH - Estação Climática</h3>
         <p>Sistema distribuído de monitoramento climático.</p>
         <p><strong>Stack:</strong> Go, Python, RabbitMQ, React, Docker.</p>
-        <a href="https://github.com/TI-nando/gdash-weather-station-microservices">
+        <a href="https://github.com/TI-nando/GDASH">
           <img src="https://img.shields.io/badge/Ver_Projeto-000?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </td>
@@ -39,7 +39,7 @@
         <h3>🎮 Habit Quest</h3>
         <p>Aplicação de produtividade gamificada (RPG).</p>
         <p><strong>Stack:</strong> React, Vite, TypeScript, CSS Modules.</p>
-        <a href="https://github.com/TI-nando/habit-quest-gamification">
+        <a href="https://habit-quest-kohl.vercel.app">
           <img src="https://img.shields.io/badge/Ver_Projeto-000?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </td>
