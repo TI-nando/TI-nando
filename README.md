@@ -4,7 +4,23 @@
   <br/>
 </p>
 
-Desenvolvedor Full Stack Júnior com sólida formação em Gestão de TI e forte base técnica em React.js, TypeScript e Node.js. Diferencial competitivo em arquitetura de software, com experiência prática na implementação de microsserviços, filas de mensageria (RabbitMQ) e integração entre múltiplas linguagens (Go, Python). Focado em Clean Code e performance, busco aplicar minha capacidade de resolução de problemas complexos em desafios reais de desenvolvimento.
+<div align="center">
+  <h1>Olá, eu sou Fernando Henrique! 👋</h1>
+
+  <p>
+    <strong>Desenvolvedor Full Stack Júnior</strong> com sólida formação em Gestão de TI e forte base técnica em <strong>React.js, TypeScript e Node.js</strong>.
+  </p>
+  
+  <p>
+    🚀 Diferencial competitivo em arquitetura de software, com experiência prática na implementação de <strong>microsserviços</strong>, filas de mensageria (<strong>RabbitMQ</strong>) e integração entre múltiplas linguagens (<strong>Go, Python</strong>).
+  </p>
+
+  <p>
+    💡 Focado em <strong>Clean Code</strong> e performance, busco aplicar minha capacidade de resolução de problemas complexos em desafios reais de desenvolvimento.
+  </p>
+</div>
+
+<hr>
 
 <h2>🛠️ Minhas Skills</h2>
 
