@@ -12,7 +12,7 @@
   </p>
   
   <p>
-    ⚙️ Diferencial competitivo em arquitetura de software, com experiência prática na implementação de <strong>microsserviços</strong>, filas de mensageria (<strong>RabbitMQ</strong>) e integração entre múltiplas linguagens (<strong>Go, Python</strong>).
+    ⚙️ Diferencial competitivo em arquitetura de software, com experiência prática na implementação de <strong>microsserviços</strong>, filas de mensageria e integração entre múltiplas linguagens.
   </p>
 
   <p>
