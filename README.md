@@ -1,6 +1,10 @@
 <h1 align="center">Fernando Henrique Silva</h1>
 <p align="center">
-  <strong>Desenvolvedor Back-End Jr</strong> • APIs • Mensageria • Banco de Dados
+  <strong>Desenvolvedor Full Stack Jr</strong> • Back-End • Front-End • APIs
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7F3ACE&center=true&vCenter=true&width=800&lines=Full+Stack+com+foco+em+qualidade+e+entrega;React+%7C+TypeScript+%7C+Node.js;Java+%7C+APIs+REST+%7C+MySQL;Clean+Code+%7C+Testes+%7C+Boas+pr%C3%A1ticas" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -15,71 +19,87 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-0b1f2a?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Node.js-0b1f2a?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-0b1f2a?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-0b1f2a?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/RabbitMQ-0b1f2a?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-</div>
-
 <hr/>
 
-<h2>Perfil</h2>
+<h2>Resumo</h2>
 
-- Foco em Back-End: APIs REST, integração entre serviços e organização de domínio.
-- Boas práticas: Clean Code, padrões de arquitetura e atenção a manutenção.
-- Objetivo: evoluir em arquitetura, mensageria e sistemas escaláveis.
+- Desenvolvedor Full Stack com base sólida em JavaScript/TypeScript e foco em desenvolvimento de aplicações completas.
+- Experiência prática com APIs, integração, banco de dados e interfaces responsivas.
+- Direcionado a Clean Code, boas práticas e evolução constante.
 
-<h2>O Que Eu Desenvolvo</h2>
+<h2>Disponibilidade</h2>
 
-- APIs REST com validação, paginação e tratamento de erros consistente.
-- Integrações e rotinas assíncronas com mensageria (publish/consume).
-- Persistência e modelagem de dados (SQL) com foco em consistência e performance.
-- Observabilidade e qualidade: logs úteis, testes e documentação de endpoints.
+- 🎯 Buscando: Desenvolvedor Full Stack Jr
+- 📍 Localização: Brasil
+- 💻 Modalidade: Remoto / Híbrido / Presencial
+- 📧 Contato: [fernandoagro.654@gmail.com](mailto:fernandoagro.654@gmail.com)
 
-<h2>Stack</h2>
+<h2>Habilidades</h2>
+
+<h3>Front-End</h3>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/>HTML5</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/>CSS3</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>JavaScript</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>TypeScript</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>React</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/><br/>Next.js</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/><br/>Vue.js</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite"/><br/>Vite</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS"/><br/>TailwindCSS</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" alt="Sass"/><br/>Sass</td>
+  </tr>
+</table>
 
 <h3>Back-End</h3>
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/>Java</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br/>Node.js</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br/>Node.js</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/>Java</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" alt="REST API"/><br/>REST API</td>
   </tr>
 </table>
 
-<h3>Dados</h3>
+<h3>Banco de Dados</h3>
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>MySQL</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>MySQL</td>
   </tr>
 </table>
 
-<h3>Infra & Mensageria</h3>
+<h3>Testes</h3>
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/>Docker</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ"/><br/>RabbitMQ</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest"/><br/>Jest</td>
   </tr>
 </table>
 
-<h3>Testes & Ferramentas</h3>
+<h3>Ferramentas</h3>
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest"/><br/>Jest</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>Git</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/><br/>Postman</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>Git</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>GitHub</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/><br/>Postman</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br/>VS Code</td>
   </tr>
 </table>
 
-<h3>Front-End (Suporte)</h3>
+<h3>Metodologias</h3>
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>TypeScript</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>React</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/><br/>Next.js</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/><br/>Jira</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello"/><br/>Trello</td>
+  </tr>
+</table>
+
+<h3>UX/UI</h3>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br/>Figma</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="40" height="40" alt="Adobe XD"/><br/>Adobe XD</td>
   </tr>
 </table>
 
@@ -90,16 +110,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>GDASH - Estação Climática</h3>
-      <p>Sistema distribuído para monitoramento e processamento de dados com comunicação assíncrona.</p>
-      <p><strong>Ênfase:</strong> back-end/integração/infra.</p>
-      <p><strong>Stack:</strong> Go, Python, RabbitMQ, Docker.</p>
+      <h3>🚀 GDASH - Estação Climática</h3>
+      <p>Sistema distribuído de monitoramento e processamento de dados com comunicação assíncrona.</p>
+      <p><strong>Stack:</strong> Go, Python, RabbitMQ, Docker, React.</p>
       <a href="https://github.com/TI-nando/GDASH">Repositório</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Habit Quest</h3>
-      <p>Aplicação web voltada a consistência e organização, com base para evoluir integrações e APIs.</p>
-      <p><strong>Ênfase:</strong> produto e experiência, com possibilidade de expansão do back-end.</p>
+      <h3>🎮 Habit Quest</h3>
+      <p>Aplicação web com foco em produtividade, organização e experiência do usuário.</p>
       <p><strong>Stack:</strong> React, Vite, TypeScript.</p>
       <a href="https://habit-quest-kohl.vercel.app">Demo</a>
     </td>
@@ -113,11 +131,11 @@
 <div align="center">
   <img src="https://img.shields.io/github/commit-activity/m/TI-nando/TI-nando?style=for-the-badge&label=Commits%2Fm%C3%AAs" alt="Commits por mês" />
   <img src="https://img.shields.io/github/last-commit/TI-nando/TI-nando?style=for-the-badge&label=%C3%9Altimo%20commit" alt="Último commit" />
-  <img src="https://img.shields.io/github/languages/top/TI-nando/TI-nando?style=for-the-badge&label=Linguagem%20topo" alt="Linguagem topo" />
+  <img src="https://img.shields.io/github/languages/count/TI-nando/TI-nando?style=for-the-badge&label=Linguagens" alt="Linguagens" />
 </div>
 
 <details>
-  <summary>Mais estatísticas</summary>
+  <summary>Ver estatísticas</summary>
   <br/>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=TI-nando&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="180"/>
