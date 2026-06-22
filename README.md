@@ -90,7 +90,7 @@
       <h3>🏦 API Itaú - Transações e Estatísticas</h3>
       <p>API RESTful de alta performance para processamento de transações financeiras e cálculo de métricas em tempo real (janela deslizante).</p>
       <p><strong>Stack:</strong> Java 17, Spring Boot 3.x, Swagger, Arquitetura MVC, Observabilidade.</p>
-      <a href="https://github.com/TI-nando/DESAFIO-ITAU-REPO">Repositório</a>
+      <a href="https://github.com/TI-nando/Desafio-tecnico-itau-java10x">Repositório</a>
     </td>
     <td width="50%" valign="top">
       <h3>🚀 GDASH - Estação Climática</h3>
@@ -104,13 +104,13 @@
       <h3>💰 DevBank API - Sistema Bancário</h3>
       <p>API RESTful simulando operações bancárias (transferências) com foco em integridade transacional (ACID) e versionamento de base de dados.</p>
       <p><strong>Stack:</strong> Java 17, Spring Boot, Spring Data JPA, Flyway, H2 Database.</p>
-      <a href="https://github.com/TI-nando/DEVBANK-REPO">Repositório</a>
+      <a href="https://github.com/TI-nando/DevBank">Repositório</a>
     </td>
     <td width="50%" valign="top">
       <h3>🍎 MagicFridgeAI - Gestão Inteligente</h3>
       <p>Aplicação voltada à redução do desperdício de alimentos, utilizando Inteligência Artificial (Google Gemini API) e chamadas reativas.</p>
       <p><strong>Stack:</strong> Java 17, Spring Boot, Spring WebFlux (WebClient), Gemini API, Flyway.</p>
-      <a href="https://github.com/TI-nando/MAGICFRIDGEAI-REPO">Repositório</a>
+      <a href="https://github.com/TI-nando/MagicFridgeAI">Repositório</a>
     </td>
   </tr>
 </table>
