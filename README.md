@@ -1,6 +1,6 @@
 <h1 align="center">Fernando Henrique Silva</h1>
 <p align="center">
-  <strong>Desenvolvedor Back-End Jr</strong> • Java • Spring Boot • APIs REST • Banco de Dados
+  <strong>Desenvolvedor Back-end | Java | Spring Boot | Node.js | APIs REST | MySQL, PostgreSQL | AWS
 </p>
 
 <p align="center">
